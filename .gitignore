@@ -33,6 +33,12 @@ MANIFEST
 *.manifest
 *.spec
 
+def printHello():
+  print("Hello")
+
+def printGoodbye():
+  print("Goodbye")
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
